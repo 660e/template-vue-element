@@ -9,10 +9,10 @@
 }
 ::-webkit-scrollbar-thumb {
   border-radius: 3px;
-  background-color: #ddd;
+  background-color: theme('colors.gray.400');
 }
 ::-webkit-scrollbar-thumb:hover {
-  background-color: #ccc;
+  background-color: theme('colors.gray.500');
 }
 
 body {
